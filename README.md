@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=connor33341&theme=dark)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connor33341&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=connor33341&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p>Minecraft Server (1.21): we-developer.gl.joinmc.link (AUTO GENERATED)</p>
 <!--
 **connor33341/connor33341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
