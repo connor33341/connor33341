@@ -36,3 +36,12 @@ jobs:
           plugin_code: yes
           plugin_code_languages: java, python, c++, c#, javascript
           plugin_code_load: 400
+      - name: WebsitePeek
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.screenshot.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Latest Website Build
+          plugin_screenshot_url: https://connor33341.dev
