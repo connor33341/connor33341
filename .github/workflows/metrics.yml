@@ -27,3 +27,12 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_threshold: 2%
           plugin_languages_limit: 10
+      - name: CodeSnippet
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: java, python, c++, c#, javascript
+          plugin_code_load: 400
