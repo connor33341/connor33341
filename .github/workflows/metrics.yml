@@ -7,14 +7,15 @@ on:
 
 jobs:
   build_metrics:
-    name: LangMetrics
-    uses: lowlighter/metrics@v3.34
-    with:
-      filename: metrics.plugin.languages.svg
-      token: ${{ secrets.METRICS_TOKEN }}
-      base: ""
-      plugin_languages: yes
-      plugin_languages_ignored: >-
-        html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-        gnuplot
-      plugin_languages_limit: 4
+    runs-on: ubuntu-22.04
+    steps:
+      - name: LangMetrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            tex, less, qmake, lex, gnuplot
+          plugin_languages_limit: 4
