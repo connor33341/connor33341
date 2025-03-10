@@ -4,8 +4,9 @@
 
 ---
 
-<p><img align="center" style="width:50%" src="https://streak-stats.demolab.com?user=connor33341&theme=dark"/></p>
-<p><img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=connor33341&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
+<p><img align="center" src="/metrics.plugin.languages.svg"/></p>
+<!--<p><img align="center" style="width:50%" src="https://streak-stats.demolab.com?user=connor33341&theme=dark"/></p>
+<p><img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=connor33341&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>-->
 <!--
 **connor33341/connor33341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
