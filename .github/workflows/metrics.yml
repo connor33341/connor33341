@@ -8,6 +8,10 @@ on:
 jobs:
   build_metrics:
     runs-on: ubuntu-22.04
+    environment:
+      name: Main
+    permissions:
+      contents: write
     steps:
       - name: LangMetrics
         uses: lowlighter/metrics@v3.34
