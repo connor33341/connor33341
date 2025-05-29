@@ -4,7 +4,7 @@
 -->
 ---
 ### Software Developer (Full Stack)
- - Crypro Researcher/Developer
+ - Crypto Researcher/Developer
  - Decentralized Network Developer
  - Website designer
 <p><img align="center" src="/metrics.plugin.languages.svg"/></p>
