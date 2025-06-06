@@ -6,7 +6,6 @@
 ### Software Developer (Full Stack)
  - Crypto Researcher/Developer
  - Decentralized Network Developer
- - Website Designer
 <p><img align="center" src="/metrics.plugin.languages.svg"/></p>
 <p><img align="center" src="/metrics.plugin.code.svg"/></p>
 <p><img align="center" src="/metrics.plugin.screenshot.svg"/></p>
