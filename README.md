@@ -6,6 +6,9 @@
 ### Software Developer (Full Stack)
  - Crypto Researcher/Developer
  - Decentralized Network Developer
+
+---
+[**Looking for help**](https://github.com/Voxa-Communications/VoxaCommunications-NetNode/tree/dev)
 <p><img align="center" src="/metrics.plugin.languages.svg"/></p>
 <p><img align="center" src="/metrics.plugin.code.svg"/></p>
 <p><img align="center" src="/metrics.plugin.screenshot.svg"/></p>
