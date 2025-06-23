@@ -44,4 +44,4 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Latest Website Build
-          plugin_screenshot_url: https://connor33341.dev
+          plugin_screenshot_url: https://voxacommunications-website.pages.dev/
