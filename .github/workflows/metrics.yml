@@ -45,4 +45,4 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_wait: 1500
           plugin_screenshot_title: Latest Website Build
-          plugin_screenshot_url: https://voxacommunications-website.pages.dev/
+          plugin_screenshot_url: https://voxacommunications-website.pages.dev
