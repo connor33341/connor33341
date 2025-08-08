@@ -43,5 +43,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
+          plugin_screenshot_wait: 2000
           plugin_screenshot_title: Latest Website Build
           plugin_screenshot_url: https://connor33341.dev
