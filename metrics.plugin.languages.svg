@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 11.2mb of code in 2698 edited files across 519 commits</small>
+                <small>estimation from 11.9mb of code in 2959 edited files across 528 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.84362555099045" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="238.84362555099045" y="0" width="146.07047448516371" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="384.9141000361542" y="0" width="75.08589996384582" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.44159229020067" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="218.44159229020067" y="0" width="154.20185834069886" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="372.6434506308995" y="0" width="87.35654936910048" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.88 MB</div>
-                                <div>51.92%</div>
+                                <div>2.90 MB</div>
+                                <div>47.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>905 kB</div>
-                                <div>16.32%</div>
+                                <div>1.16 MB</div>
+                                <div>18.99%</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>1.76 MB</div>
-                                <div>31.75%</div>
+                                <div>2.05 MB</div>
+                                <div>33.52%</div>
                             </small>
                         </div>
                     </section>
