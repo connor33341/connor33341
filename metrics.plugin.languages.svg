@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 11.6mb of code in 2659 edited files across 298 commits</small>
+                <small>estimation from 11.9mb of code in 2797 edited files across 306 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.61051995813708" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="202.61051995813708" y="0" width="164.15268277550985" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="366.76320273364695" y="0" width="93.23679726635307" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.49264868770638" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="194.49264868770638" y="0" width="168.68542865681138" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="363.17807734451776" y="0" width="96.82192265548223" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>2.84 MB</div>
-                                <div>44.05%</div>
+                                <div>42.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.31 MB</div>
-                                <div>20.27%</div>
+                                <div>1.42 MB</div>
+                                <div>21.05%</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>2.30 MB</div>
-                                <div>35.69%</div>
+                                <div>2.47 MB</div>
+                                <div>36.67%</div>
                             </small>
                         </div>
                     </section>
